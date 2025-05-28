@@ -6,6 +6,10 @@
 
 CityPulse is an intelligent location-based discovery app that helps users explore what's happening around them right now. Built for the Perplexity AI Hackathon, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
 
+## 🎥 Video - 3 min
+
+[![CityPulse-GeoSearch-App | Loom Video - 3 min with x1.5E](https://cdn.loom.com/sessions/thumbnails/6507fa27571442e680edf787b0f0690d-2fa2c36169822631-full-play.gif)](https://www.loom.com/share/6507fa27571442e680edf787b0f0690d)
+
 ## 🏆 Perplexity.AI - Hackathon
 
 This project was developed for the **[Perplexity.AI](https://perplexity.ai)  Hackathon** to showcase:
