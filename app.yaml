@@ -1,0 +1,19 @@
+# app.yaml
+runtime: python313
+
+entrypoint: python main.py
+
+env_variables:
+  PYTHON_ENV: production
+
+automatic_scaling:
+  min_instances: 0
+  max_instances: 2
+  target_cpu_utilization: 0.6
+
+handlers:
+- url: /.*
+  script: auto
+  secure: always
+- url: /static
+  static_dir: static
