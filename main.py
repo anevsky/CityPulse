@@ -11,9 +11,15 @@ from perplexity_client import PerplexityAPI
 # Load environment variables
 load_dotenv()
 
+# Get secret key from environment variable or generate one
+secret_key = os.environ.get('SECRET_KEY')
+if not secret_key:
+    raise ValueError("SECRET_KEY environment variable must be set")
+
 # Create the FastHTML app
 app, rt = fast_app(
     pico=False,
+    secret_key=secret_key,
     hdrs=(
         Link(rel="icon", href="/static/favicon.ico", type="image/x-icon"),
     )
@@ -634,4 +640,5 @@ def get_location_insights(name: str, type: str, description: str, address: str =
         return {"success": False, "error": str(e)}
 
 if __name__ == "__main__":
-    serve()
+    port = int(os.environ.get("PORT", 5001))
+    serve(host="0.0.0.0", port=port)
