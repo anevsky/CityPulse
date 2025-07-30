@@ -2,7 +2,7 @@
 
 ![CityPulse-GeoSearch-App-1](assets/CityPulse-GeoSearch-App-1.jpg)
 
-**🌆 CityPulse - Local Geospatial Discovery Search**
+**🌆 CityPulse - AI Local Geospatial Discovery Search**
 
 CityPulse is an intelligent location-based discovery search that helps users explore what's happening around them right now. Built from 0 to 1, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
 
