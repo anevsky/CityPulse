@@ -6,6 +6,8 @@
 
 CityPulse is an intelligent location-based discovery search that helps users explore what's happening around them right now. Built from 0 to 1, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
 
+Available on Google Cloud: https://citypulse-ppx.uc.r.appspot.com/
+
 ## 🎥 Video - 2.5 min
 
 [![CityPulse-GeoSearch-App | Video Demo](https://cdn.loom.com/sessions/thumbnails/6507fa27571442e680edf787b0f0690d-2fa2c36169822631-full-play.gif)](https://youtu.be/Y0UIhh3diJg)
