@@ -240,9 +240,10 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 🙏 Acknowledgments
 
 - **[Google Maps](https://developers.google.com/maps)** for the interactive mapping platform
-- **[FastHTML](https://www.fastht.ml)** for the rapid development framework
+- **[Google Cloud](https://cloud.google.com/)** for Cloud Computing Services that easy to use
+- **[FastHTML](https://www.fastht.ml)** for the rapid development Python framework
 - **[Bootstrap](https://getbootstrap.com)** for the responsive UI components
-- **[Perplexity.AI](https://perplexity.ai)** for providing the [Sonar API](https://sonar.perplexity.ai)
+- **[Perplexity.AI](https://perplexity.ai)** for providing the AI-powered [Sonar API](https://sonar.perplexity.ai)
 
 ---
 
