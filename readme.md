@@ -2,22 +2,18 @@
 
 ![CityPulse-GeoSearch-App-1](assets/CityPulse-GeoSearch-App-1.jpg)
 
-**Real-time local discovery powered by Perplexity AI**
+**🌆 CityPulse - Local Geospatial Discovery Search**
 
-CityPulse is an intelligent location-based discovery app that helps users explore what's happening around them right now. Built for the Perplexity AI Hackathon, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
+CityPulse is an intelligent location-based discovery search that helps users explore what's happening around them right now. Built from 0 to 1, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
 
-## 🎥 Video - 3 min
+## 🏆 AI - Hackathon
 
-[![CityPulse-GeoSearch-App | Loom Video - 3 min with x1.5E](https://cdn.loom.com/sessions/thumbnails/6507fa27571442e680edf787b0f0690d-2fa2c36169822631-full-play.gif)](https://www.loom.com/share/6507fa27571442e680edf787b0f0690d)
-
-## 🏆 Perplexity.AI - Hackathon
-
-This project was developed for the **[Perplexity.AI](https://perplexity.ai)  Hackathon** to showcase:
-- **Real-time information retrieval** using Perplexity's Sonar models
-- **Structured data extraction** with JSON schema validation
+This project was developed for the **AI Hackathon** to showcase:
 - **AI-powered reasoning** for personalized location insights
-- **Location-based search** with geographic context
-- **Citation and source verification** for reliable information
+- **Real-time information retrieval** 
+- **Structured data extraction** 
+- **Location-based search**
+- **Citation and source verification**
 
 ## ✨ Key Features
 
@@ -34,7 +30,7 @@ This project was developed for the **[Perplexity.AI](https://perplexity.ai)  Hac
 - **Quick action buttons** for common discovery categories
 
 ### 🧠 **AI-Powered Insights**
-- **Personalized recommendations** using Perplexity's reasoning model
+- **Personalized recommendations** using AI reasoning model
 - **What to try, what to avoid** for each location
 - **Best times to visit** and pro tips
 - **Budget considerations** and insider knowledge
@@ -56,7 +52,7 @@ This project was developed for the **[Perplexity.AI](https://perplexity.ai)  Hac
 
 ### Prerequisites
 - Python 3.11+
-- Perplexity API key
+- AI API key
 - Google Maps API key
 
 ### Installation
@@ -78,8 +74,8 @@ pip install -r requirements.txt
 
 Create a `.env` file with API keys:
 ```env
-PERPLEXITY_API_KEY=your_perplexity_api_key_here
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+PERPLEXITY_API_KEY=your_perplexity_api_key_here
 ```
 
 4. **Run the application**
@@ -143,7 +139,7 @@ Navigate to [http://localhost:5001](http://localhost:5001)
 
 ### **Backend (FastHTML + Python)**
 - **FastHTML framework** for rapid web development
-- **Perplexity API integration** with multiple models
+- **AI API integration** with multiple models
 - **JSON schema validation** for structured responses
 - **In-memory data storage** for shared locations
 - **RESTful API endpoints** for all functionality
@@ -155,9 +151,9 @@ Navigate to [http://localhost:5001](http://localhost:5001)
 - **Progressive enhancement** with loading states
 - **Real-time search suggestions** with debouncing
 
-### **AI Integration (Perplexity API)**
-- **Sonar models** for real-time information retrieval
-- **Sonar Reasoning** for personalized insights
+### **AI Integration**
+- **Basic models** for real-time information retrieval
+- **Reasoning** for personalized insights
 - **Structured output** with JSON schema enforcement
 - **Citation tracking** for source verification
 - **Geographic context** for location-aware results
@@ -175,11 +171,11 @@ Navigate to [http://localhost:5001](http://localhost:5001)
 | `/api/get-shared-location/{id}` | GET | Retrieve shared location data |
 | `/shared/{id}` | GET | View shared location page |
 
-## 🌟 Perplexity AI Integration
+## 🌟 AI Integration
 
 ### **Models Used**
-- **`sonar`** - Real-time information retrieval
-- **`sonar-reasoning`** - Advanced reasoning for insights
+- **Perplexity `sonar`** - Real-time information retrieval
+- **Perplexity `sonar-reasoning`** - Advanced reasoning for insights
 
 ### **Key Features Leveraged**
 - **Real-time data access** for current information
@@ -237,10 +233,10 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🙏 Acknowledgments
 
-- **[Perplexity.AI](https://perplexity.ai)** for providing the powerful [Sonar API](https://sonar.perplexity.ai) and hosting the [hackathon](https://perplexityhackathon.devpost.com)
-- **[FastHTML](https://www.fastht.ml)** for the rapid development framework
 - **[Google Maps](https://developers.google.com/maps)** for the interactive mapping platform
+- **[FastHTML](https://www.fastht.ml)** for the rapid development framework
 - **[Bootstrap](https://getbootstrap.com)** for the responsive UI components
+- **[Perplexity.AI](https://perplexity.ai)** for providing the [Sonar API](https://sonar.perplexity.ai)
 
 ---
 
