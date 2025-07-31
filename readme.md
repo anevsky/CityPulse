@@ -26,7 +26,7 @@ Available on Google Cloud: https://citypulse-ppx.uc.r.appspot.com/
 - **Location-aware results** based on your current position
 - **Quick action buttons** for common discovery categories
 
-### ✨ **AI API Showcase**
+### ✨ **AI-Powered API**
 - **AI-powered reasoning** for personalized location insights
 - **Real-time information retrieval** 
 - **Structured data extraction** 
