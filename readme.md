@@ -12,16 +12,7 @@ Available on Google Cloud: https://citypulse-ppx.uc.r.appspot.com/
 
 [![CityPulse-GeoSearch-App | Video Demo](https://cdn.loom.com/sessions/thumbnails/6507fa27571442e680edf787b0f0690d-2fa2c36169822631-full-play.gif)](https://youtu.be/Y0UIhh3diJg)
 
-## 🏆 AI - Hackathon
-
-This project was developed for the **AI Hackathon** to showcase:
-- **AI-powered reasoning** for personalized location insights
-- **Real-time information retrieval** 
-- **Structured data extraction** 
-- **Location-based search**
-- **Citation and source verification**
-
-## ✨ Key Features
+## 🏆 Key Features
 
 ### 🗺️ **Interactive Map Discovery**
 - **Real-time location detection** with custom markers
@@ -34,6 +25,13 @@ This project was developed for the **AI Hackathon** to showcase:
 - **Natural language queries** (e.g., "coffee shops", "live music tonight")
 - **Location-aware results** based on your current position
 - **Quick action buttons** for common discovery categories
+
+### ✨ **AI API Showcase**
+- **AI-powered reasoning** for personalized location insights
+- **Real-time information retrieval** 
+- **Structured data extraction** 
+- **Location-based search**
+- **Citation and source verification**
 
 ### 🧠 **AI-Powered Insights**
 - **Personalized recommendations** using AI reasoning model
