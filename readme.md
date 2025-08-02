@@ -6,7 +6,8 @@
 
 CityPulse is an intelligent location-based discovery search that helps users explore what's happening around them right now. Built from 0 to 1, it leverages advanced AI reasoning to provide personalized, real-time insights about local events, restaurants, alerts, and activities.
 
-Available on Google Cloud: https://citypulse-ppx.uc.r.appspot.com/
+- Available on Google Cloud: https://citypulse-ppx.uc.r.appspot.com/
+- Part of official Perplexity.AI Cookbook: https://docs.perplexity.ai/cookbook/showcase/citypulse-ai-search
 
 ## 🎥 Video - 2.5 min
 
@@ -242,7 +243,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **[FastHTML](https://www.fastht.ml)** for the rapid development Python framework
 - **[Bootstrap](https://getbootstrap.com)** for the responsive UI components
 - **[Perplexity.AI](https://perplexity.ai)** for providing the AI-powered [Sonar API](https://sonar.perplexity.ai)
-
+- **[Perplexity.AI - Cookbook](https://docs.perplexity.ai/cookbook/showcase/citypulse-ai-search)** for including CityPulse to official Perplexity.AI Cookbook
+  
 ---
 
 *Discover your city like never before with AI-powered local insights*
